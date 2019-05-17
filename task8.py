@@ -1,4 +1,1 @@
-import os
-a=input('Enter file name: ')
-b=os.path.getsize(a)
-print('Size of file: ',b)
+a,b=int(input("enter the first num")),int(input("enter the second num"))
