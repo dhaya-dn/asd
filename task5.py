@@ -1,0 +1,5 @@
+x=input("enter variable : ")
+print('integer :', int(x))
+print('float : ', float(x))
+print('string : ', str(x))
+print( 'complex : ', complex(x))
